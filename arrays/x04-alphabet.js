@@ -15,4 +15,4 @@ let alphabet = "abcdefghijklmnopqrstuvwxyz";
 console.log(alphabet.split(""));
 
 // Solution 2:
-// console.log(Array.from(alphabet));
+console.log(Array.from(alphabet));

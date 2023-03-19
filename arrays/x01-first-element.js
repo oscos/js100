@@ -9,7 +9,7 @@
   Write a function that returns the first element of an input array. 
 
   What would you return if the input array was empty?
-  */
+*/
 
 function first(xArr) {
   return xArr[0];
